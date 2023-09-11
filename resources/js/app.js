@@ -1,5 +1,5 @@
 import './bootstrap';
-import Vue from 'vue/dist/vue';
+import Vue from 'vue/dist/vue'
 window.Vue = require('vue');
  
 import App from './App.vue';
